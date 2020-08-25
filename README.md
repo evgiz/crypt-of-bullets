@@ -2,6 +2,8 @@
 
 Ludum Dare 32 entry written in Lua using Löve2d.
 
+Originally written in August 2016. Uploaded in 2019 with support for LÖVE v11.2
+
 <img src="assets/screenshot.png" width="600px">
 
 ### Links
