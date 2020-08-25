@@ -1,0 +1,29 @@
+
+TODO LIST
+
+-More level variety
+-Strong enemy with a lot of health
+-More power up types
+	-Coin magnet
+-More particle effects
+
+DONE:
+-More unlockable palettes
+-Projectile enemy, walks away from player (mage)
+-Music
+-Save palette and high score
+-Screen shake
+-Menu/start screen
+-Mute function
+-Blood and debris
+-Game over
+-Power up rooms
+	-Speed
+	-Fire rate
+	-Health
+	-Range
+
+
+ALSO:
+-Make sure exit is always spawned, rare bug :(
+	-Pretty sure its fixed!
