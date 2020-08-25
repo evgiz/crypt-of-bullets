@@ -34,7 +34,7 @@ function drawUI()
 	love.graphics.print("FLOOR "..world.level,60,-4)
 	love.graphics.print("SCORE "..score,120,-4)
 
-	love.graphics.print("FPS: "..love.timer.getFPS(),4,10)
+	--love.graphics.print("FPS: "..love.timer.getFPS(),4,10)
 
 	if messageTime>0 then
 		love.graphics.setColor(0,0,0,1)
